@@ -3,6 +3,8 @@
 
 - [ ] find my dream job 🥸
 - [x] build my firts recommend system content based
+- [x] build my firts sentiment analisys based on LSTM / EMBEDDING nn
+- [ ] build my firts styles GAN
 - [x] build my firts chatbot intent based (no repository yet)
 - [ ] learn Rust
 - [x] learn docker

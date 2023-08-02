@@ -29,7 +29,7 @@ const aboutMe = {
       mobile: null
    },
    currentOccupation: ["lead developer at a service's payment company => Biyuyo SA"],
-   roadmap: "I'm learning ML and recommend system.",
+   roadmap: "I'm learning Langchain.",
 };
 ```
 </br></br>

@@ -1,15 +1,8 @@
 # A nooby geek into ML 🤓</br>
 <hr/>
 
-- [ ] find my dream job 🥸
-- [x] build my firts recommend system content based
-- [x] build my firts sentiment analisys based on LSTM / EMBEDDING nn
-- [ ] build my firts styles GAN
-- [x] build my firts chatbot intent based (no repository yet)
-- [ ] learn Rust
-- [x] learn docker
-- [x] 101 python/pandas
-- [x] build my firts nn with tensorflow/python
+## Building a shopify flow for assistant proposals in WhatsApp and Telegram
+- [========  ] 80% Loading...
 
 
 ```javascript
@@ -19,7 +12,7 @@ const aboutMe = {
    technologies: {
       frontEnd: {
          js: ["React", "Angular"],
-         css: ["Materialize", "Bootstrap"]
+         css: ["Tailwind", "Bootstrap"]
       },
       backEnd: {
          js: ["Node", "Express", "Angular"],
@@ -28,8 +21,8 @@ const aboutMe = {
       databases: ["MongoDB", "mySQL", "Postgres", "Mongo"],
       mobile: null
    },
-   currentOccupation: ["lead developer at a service's payment company => Biyuyo SA"],
-   roadmap: "I'm learning Langchain.",
+   currentOccupation: ["Active Colaborator in https://codigoencasa.com"],
+   roadmap: "I'm learning every day.",
 };
 ```
 </br></br>

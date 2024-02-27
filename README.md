@@ -2,6 +2,8 @@
 
 Gogh Solutions
 
+Is a platform which provide solutions from chatbots, web pages, migrations, etc
+
 ![image](https://github.com/Elimeleth/elimeleth/assets/52844628/228915f0-9c0e-4880-94bb-2410b84f1dd6)
 
 

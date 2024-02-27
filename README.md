@@ -1,29 +1,25 @@
-# A nooby geek into ML 🤓</br>
+# A nooby geek into NLP And RAG solutions 🤓</br>
+
+Gogh Solutions
+
+![image](https://github.com/Elimeleth/elimeleth/assets/52844628/228915f0-9c0e-4880-94bb-2410b84f1dd6)
+
+
 <hr/>
 
 ## Building a shopify flow for assistant proposals in WhatsApp and Telegram
-- [========  ] 80% Loading...
+[========>  ] 80% Loading...
 
 
 ```javascript
-const aboutMe = {
-   pronouns: "he" | "him",
-   code: [Javascript, Typescript, HTML, CSS, Python],
-   technologies: {
-      frontEnd: {
-         js: ["React", "Angular"],
-         css: ["Tailwind", "Bootstrap"]
-      },
-      backEnd: {
-         js: ["Node", "Express", "Angular"],
-         misc: ["Bash", "Puppeteer", "Docker", "Postgresql", "mongo]
-      },
-      databases: ["MongoDB", "mySQL", "Postgres", "Mongo"],
-      mobile: null
-   },
-   currentOccupation: ["Active Colaborator in https://codigoencasa.com"],
-   roadmap: "I'm learning every day.",
-};
+
+   const aboutMe = () => throw new Error('Method is building yet');
+
+   try {
+      await aboutMe();
+   }catch (_) {
+     throw new Error('Ups, something went wrong');
+   }
 ```
 </br></br>
 

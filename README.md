@@ -4,8 +4,7 @@ Gogh Solutions
 
 Is a platform which provide solutions from chatbots, web pages, migrations, etc
 
-![image](https://github.com/Elimeleth/elimeleth/assets/52844628/228915f0-9c0e-4880-94bb-2410b84f1dd6)
-
+![image](https://github.com/Elimeleth/elimeleth/assets/52844628/04242960-82d1-4b92-942e-641caa88e8b1)
 
 <hr/>
 
